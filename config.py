@@ -2,7 +2,7 @@
 import os
 
 # Telegram Bot Token
-BOT_TOKEN = "8595708491:AAEPWLh3IyXrS27YXtyVoPVwQVBah7flOB8"  # @BotFather dan olingan token
+BOT_TOKEN = ""  # @BotFather dan olingan token
 
 # Database
 DATABASE_PATH = "clustering_bot.db"
